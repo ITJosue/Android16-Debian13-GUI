@@ -2,7 +2,6 @@
 
 This repository contains an automated bash script (`main.sh`) designed to provision Android 16 Debian 13 system with essential developer tools, containerization utilities, and a lightweight KDE Plasma desktop environment accessible via remote desktop (XRDP).
 
-
 ---
 ## ⚡ Quick Start
 
@@ -10,6 +9,9 @@ If you want to execute the setup immediately without cloning the repository, you
 
 Open your terminal and run:
 
+```bash
+curl -SL https://github.com/ITJosue/Android16-Debian13-GUI/raw/refs/heads/main/main.sh | bash
+```
 
 ## 🚀 What Does This Project Do?
 
