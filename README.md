@@ -1,6 +1,6 @@
 # System Setup & KDE Plasma Installation Script
 
-This repository contains an automated bash script (`main.sh`) designed to provision a Debian/Ubuntu-based system with essential developer tools, containerization utilities, and a lightweight KDE Plasma desktop environment accessible via remote desktop (XRDP).
+This repository contains an automated bash script (`main.sh`) designed to provision Android 16 Debian 13 system with essential developer tools, containerization utilities, and a lightweight KDE Plasma desktop environment accessible via remote desktop (XRDP).
 
 
 ---
