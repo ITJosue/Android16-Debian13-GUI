@@ -26,4 +26,4 @@ The `main.sh` script automates the installation and configuration of several key
 - **Boot Configuration:** Sets the system's default boot target to graphical mode so it launches the desktop environment on startup.
 
 ---
-## Please note Android 16 Terminal is still under development, not meant to be a daily driver.
+## Please note Android 16 Terminal is still under development, it can be very unstable.
